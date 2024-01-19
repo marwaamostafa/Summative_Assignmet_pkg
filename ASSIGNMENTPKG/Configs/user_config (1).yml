@@ -1,0 +1,9 @@
+plot:
+  color: "blue"
+  title: "Default Plot Title"
+  x_axis_title: "X Axis"
+  y_axis_title: "Y Axis"
+figure_size:
+  width: 8
+  height: 6
+default_save_path: "./saved_data"
